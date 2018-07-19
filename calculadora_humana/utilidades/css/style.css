@@ -10,3 +10,10 @@ header
 	font-size: 50;
 	color: #920831;
 }
+input
+{
+	font-family: serif;
+	font-size: 15px;
+	size: 50px;
+	height: 20px;
+}
